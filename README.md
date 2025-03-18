@@ -12,11 +12,9 @@ The **Country Detail Project** is a React-based web application that allows user
 
 ## Tech Stack
 - **Frontend**: React.js, React Hooks
-- **Styling**: CSS / TailwindCSS (or any other styling library used)
+- **Styling**: CSS / Bootstrap
 - **API**: REST Countries API
 
-
-   ```
 
 ## Usage
 - Enter a country name in the search bar to find specific countries.
