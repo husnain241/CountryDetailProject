@@ -1,8 +1,31 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Country Detail Project (React)
 
-Currently, two official plugins are available:
+## Overview
+The **Country Detail Project** is a React-based web application that allows users to explore and search for countries worldwide. The project includes features such as sorting (ascending & descending), searching by name, filtering by region, and viewing individual country details, including a picture.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- 🔍 **Search Countries**: Users can search for a country by name.
+- 🔄 **Sorting**: Sort countries in ascending or descending order.
+- 🌎 **Filter by Region**: View countries based on their region (e.g., Asia, Europe, Africa, etc.).
+- 📌 **Country Details**: Click on a country to see detailed information, including its flag, population, capital, and other key facts.
+
+## Tech Stack
+- **Frontend**: React.js, React Hooks
+- **Styling**: CSS / TailwindCSS (or any other styling library used)
+- **API**: REST Countries API
+
+
+   ```
+
+## Usage
+- Enter a country name in the search bar to find specific countries.
+- Use sorting options to arrange countries alphabetically.
+- Filter countries based on regions such as Asia, Europe, Africa, etc.
+- Click on any country card to view detailed information and its flag.
+
+
+## Contribution
+Feel free to contribute to this project by submitting issues or pull requests.
+
+
